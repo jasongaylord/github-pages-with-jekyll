@@ -1,13 +1,12 @@
 ---
 title: "5 Years at Berkshire Hathaway"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "aac315f0-70b5-4948-9eb5-e11435048da9"
 cloudscribe_path: "/Blog/5-years-at-berkshire-hathaway"
 permalink: /Blog/5-years-at-berkshire-hathaway
 date: 2018-11-15
-categories: Opinion
+categories: [Opinion]
 tags: 
 ---
 

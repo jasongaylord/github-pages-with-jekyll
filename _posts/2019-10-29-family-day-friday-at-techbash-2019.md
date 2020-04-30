@@ -1,13 +1,12 @@
 ---
 title: "Family Day Friday at TechBash 2019"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "4a751e92-a23a-4f83-9d18-8b0de2f52f25"
 cloudscribe_path: "/Blog/family-day-friday-at-techbash-2019"
 permalink: /Blog/family-day-friday-at-techbash-2019
 date: 2019-10-29
-categories: Events,TechBash
+categories: [Events, TechBash]
 tags: 
 ---
 

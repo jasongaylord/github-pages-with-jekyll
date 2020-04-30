@@ -1,13 +1,12 @@
 ---
 title: "Tickets Available for Philly.NET Code Camp 2018.2"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "12d65949-34e6-4734-8605-7efa5a4177e8"
 cloudscribe_path: "/Blog/tickets-available-for-phillynet-code-camp-20182"
 permalink: /Blog/tickets-available-for-phillynet-code-camp-20182
 date: 2018-10-19
-categories: Development,Events
+categories: [Development, Events]
 tags: 
 ---
 

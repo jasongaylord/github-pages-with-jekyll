@@ -1,13 +1,12 @@
 ---
 title: "Watch: Jeremy Clark Discuss Lambdas"
 author: 
-  display_name: ""
-  email: ""
+email: 
 cloudscribe_id: "6a4b59e1-681b-42bc-a086-3318dd359ff4"
 cloudscribe_path: "/Blog/watch-jeremy-clark-discuss-lambdas"
 permalink: /Blog/watch-jeremy-clark-discuss-lambdas
 date: 2018-12-06
-categories: Development,TechBash
+categories: [Development, TechBash]
 tags: 
 ---
 

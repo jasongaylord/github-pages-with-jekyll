@@ -1,13 +1,12 @@
 ---
 title: "Watch: Bill Wolff Talk About Visual Studio Code and SQL Operations Studio"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "d505be7c-e288-4330-8a76-a929b3eca7cc"
 cloudscribe_path: "/Blog/watch-bill-wolff-talk-about-visual-studio-code-and-sql-operations-studio"
 permalink: /Blog/watch-bill-wolff-talk-about-visual-studio-code-and-sql-operations-studio
 date: 2019-01-08
-categories: Development,TechBash
+categories: [Development, TechBash]
 tags: 
 ---
 

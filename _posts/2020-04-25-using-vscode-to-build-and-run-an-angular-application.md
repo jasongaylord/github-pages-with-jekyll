@@ -1,13 +1,12 @@
 ---
 title: "Using VSCode to Build and Run an Angular Application"
 author: 
-  display_name: ""
-  email: ""
+email: 
 cloudscribe_id: "75b13282-ead5-4865-9ea6-1f325d3473ea"
 cloudscribe_path: "/Blog/using-vscode-to-build-and-run-an-angular-application"
 permalink: /Blog/using-vscode-to-build-and-run-an-angular-application
 date: 2020-04-25
-categories: Development
+categories: [Development]
 tags: 
 ---
 

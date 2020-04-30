@@ -1,13 +1,12 @@
 ---
 title: "Debugging COVID-19 Data Using Excel"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "bf27f04c-7533-4134-9582-9a58f13209f1"
 cloudscribe_path: "/Blog/debugging-covid-19-data-using-excel"
 permalink: /Blog/debugging-covid-19-data-using-excel
 date: 2020-04-15
-categories: Technology,Tip
+categories: [Technology, Tip]
 tags: 
 ---
 

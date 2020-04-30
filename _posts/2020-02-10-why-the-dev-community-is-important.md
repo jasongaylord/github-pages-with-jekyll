@@ -1,13 +1,12 @@
 ---
 title: "Why the Dev Community is Important"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "13e12dd4-5b4a-4f35-b988-e46ebe57f77e"
 cloudscribe_path: "/Blog/why-the-dev-community-is-important"
 permalink: /Blog/why-the-dev-community-is-important
 date: 2020-02-10
-categories: Development,Opinion,Tip
+categories: [Development, Opinion, Tip]
 tags: 
 ---
 

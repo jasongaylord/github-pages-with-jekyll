@@ -1,13 +1,12 @@
 ---
 title: "Watch: Richard Taylor Talks About Unit Test"
 author: 
-  display_name: ""
-  email: ""
+email: 
 cloudscribe_id: "779039b0-bd53-4f22-9226-b36ec5775712"
 cloudscribe_path: "/Blog/watch-richard-taylor-talks-about-unit-test"
 permalink: /Blog/watch-richard-taylor-talks-about-unit-test
 date: 2018-11-02
-categories: Development,Technology
+categories: [Development, Technology]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Authentication, Cross-App Redirects, and ASP.NET 4.5"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "f2ffd098-6df8-4ebb-9acd-17bca758208c"
 cloudscribe_path: "/Blog/enablecrossappredirects-in-aspnet45"
 permalink: /Blog/enablecrossappredirects-in-aspnet45
 date: 2012-09-13
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 
@@ -33,16 +32,4 @@ If one of our applications contains `<httpRuntime targetFramework="4.5" />`, we 
 
 Hopefully, one of these two solutions should solve our issue.
 
-[CodeProject](http://www.codeproject.com)<p>I started to test out the migration of our web applications with ASP.NET 4.5. In many cases, we have a login page that redirects from one domain to another domain or sub-domain. In those instances, we’re setting the enableCrossAppRedirects property in the configuration files. You can find out more about setting this by visiting MSDN at <a title="http://msdn.microsoft.com/en-us/library/eb0zx8fc(v=VS.100).aspx" href="http://msdn.microsoft.com/en-us/library/eb0zx8fc(v=VS.100).aspx">http://msdn.microsoft.com/en-us/library/eb0zx8fc(v=VS.100).aspx</a>.</p>
-<p>After upgrading the web server to ASP.NET 4.5, we noticed this stopped working. The users would hit the other domain and be redirected back to the authentication domain. Some digging around (and help from <a href="https://twitter.com/blowdart" target="_blank">Barry Dorrans</a>) lead us to two possible solutions:</p>
-<ol>
-<li>We need to ensure that all web servers that are running this machines are up to date with their ASP.NET security patches.</li>
-<li>If we are forcing one of our applications to use the ASP.NET 4.5 runtime, that same application will need to have the appropriate <a href="http://jasong.us/QeHxvD" target="_blank">machineKey CompatibilitySetting checked off</a>. We’ll look at this in greater detail below.</li>
-</ol>
-<h2>Updating ASP.NET</h2>
-<p>Chances are, we may not have all of our servers running this application up to date. The updates that are the most critical are those found in <a href="http://jasong.us/QeHSOM" target="_blank">MS11-100</a>. However, be sure to check Windows Update for all ASP.NET updates. If after patching the issue persists, continue on to the next section.</p>
-<h2>Setting the MachineKeySection.CompatibilityMode Property</h2>
-<p>If one of our applications contains <code>&lt;httpRuntime targetFramework="4.5" /&gt;</code>, we need to make sure that this application’s <code>machineKey</code> is updated with the proper setting. Be default, if our other web application is using .NET Framework 2.0 SP1 or earlier, we shouldn’t have to set anything as the <code>CompatibilityMode</code> should infer the value <code>Framework20SP1</code>. Otherwise, if we are running .NET Framework 2.0 SP2 or later (but not running .NET Framework 4.5), we should use the value <code>Framework20SP2</code>. Our <code>machineKey</code> should look like the following:</p>
-<blockquote><code>&lt;machineKey compatibilityMode="Framework20SP2" … /&gt;</code></blockquote>
-<p>Hopefully, one of these two solutions should solve our issue.</p>
-<p><a style="display: none;" href="http://www.codeproject.com" rel="tag">CodeProject</a></p>
+[CodeProject](http://www.codeproject.com)

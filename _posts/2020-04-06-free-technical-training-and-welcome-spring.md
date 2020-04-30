@@ -1,13 +1,12 @@
 ---
 title: "Free Technical Training and Welcome Spring"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "a1b9d92b-7270-4284-8c8a-ba1504c49dc8"
 cloudscribe_path: "/Blog/free-technical-training-and-welcome-spring"
 permalink: /Blog/free-technical-training-and-welcome-spring
 date: 2020-04-06
-categories: Events,Opinion,Technology,Tip
+categories: [Events, Opinion, Technology, Tip]
 tags: 
 ---
 

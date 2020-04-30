@@ -1,13 +1,12 @@
 ---
 title: "Updating Common Controls for Older Applications to Support Windows 8"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "5b0b2357-1f98-4471-be8e-03da5dd3b129"
 cloudscribe_path: "/Blog/updating-common-controls-for-older-applications-to-support-windows-8"
 permalink: /Blog/updating-common-controls-for-older-applications-to-support-windows-8
 date: 2013-07-30
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

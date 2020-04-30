@@ -1,13 +1,12 @@
 ---
 title: "Angular 2.0 Officially Released"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "cc996e09-86b4-418e-87cf-59f38a279b2c"
 cloudscribe_path: "/Blog/angular-2-0-officially-released"
 permalink: /Blog/angular-2-0-officially-released
 date: 2016-09-15
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

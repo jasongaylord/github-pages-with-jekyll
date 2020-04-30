@@ -1,13 +1,12 @@
 ---
 title: "Watch: Jeremy Likness discusses NoSQL for .NET SQL Developers"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "01177607-b233-432b-b81c-c3cbfff2f7e8"
 cloudscribe_path: "/Blog/watch-jeremy-likness-discusses-nosql-for-net-sql-developers"
 permalink: /Blog/watch-jeremy-likness-discusses-nosql-for-net-sql-developers
 date: 2018-10-24
-categories: Cloud,TechBash
+categories: [Cloud, TechBash]
 tags: 
 ---
 

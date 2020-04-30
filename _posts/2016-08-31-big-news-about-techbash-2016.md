@@ -1,13 +1,12 @@
 ---
 title: "Big News About TechBash 2016"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "4b9af540-57c1-4c80-9383-902196c5303e"
 cloudscribe_path: "/Blog/big-news-about-techbash-2016"
 permalink: /Blog/big-news-about-techbash-2016
 date: 2016-08-31
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

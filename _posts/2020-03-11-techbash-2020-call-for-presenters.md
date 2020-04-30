@@ -1,13 +1,12 @@
 ---
 title: "TechBash 2020 Call for Presenters"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "29a83fe9-2f11-4ce9-bf8a-00a9bdf9c3c5"
 cloudscribe_path: "/Blog/techbash-2020-call-for-presenters"
 permalink: /Blog/techbash-2020-call-for-presenters
 date: 2020-03-11
-categories: Events,TechBash
+categories: [Events, TechBash]
 tags: 
 ---
 

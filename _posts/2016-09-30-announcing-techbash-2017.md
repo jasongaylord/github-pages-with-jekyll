@@ -1,13 +1,12 @@
 ---
 title: "Announcing TechBash 2017"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "06107303-bd97-460c-a63c-56cf630726d6"
 cloudscribe_path: "/Blog/announcing-techbash-2017"
 permalink: /Blog/announcing-techbash-2017
 date: 2016-09-30
-categories: Archive,TechBash
+categories: [Archive, TechBash]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Grow with Google Pennsylvania"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "9aa0b33e-c518-49cb-b06c-d41f0afdeb8a"
 cloudscribe_path: "/Blog/grow-with-google-pennsylvania"
 permalink: /Blog/grow-with-google-pennsylvania
 date: 2019-01-23
-categories: Events,Technology
+categories: [Events, Technology]
 tags: 
 ---
 

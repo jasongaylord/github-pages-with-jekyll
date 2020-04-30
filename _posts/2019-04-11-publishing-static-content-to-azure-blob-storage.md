@@ -1,13 +1,12 @@
 ---
 title: "Publishing Static Content to Azure Blob Storage"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "2c5eeaf5-2e5b-41a9-a079-2a7b6de5bbd1"
 cloudscribe_path: "/Blog/publishing-static-content-to-azure-blob-storage"
 permalink: /Blog/publishing-static-content-to-azure-blob-storage
 date: 2019-04-11
-categories: Cloud,Development
+categories: [Cloud, Development]
 tags: 
 ---
 

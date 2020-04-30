@@ -1,13 +1,12 @@
 ---
 title: "Techbash 2017 | Developer Conference Nearby"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "a75562b6-04e1-4c32-baa9-6d16d88fb77f"
 cloudscribe_path: "/Blog/techbash-2017-developer-conference-nearby"
 permalink: /Blog/techbash-2017-developer-conference-nearby
 date: 2017-09-07
-categories: Archive,TechBash
+categories: [Archive, TechBash]
 tags: 
 ---
 

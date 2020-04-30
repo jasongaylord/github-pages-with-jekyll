@@ -1,13 +1,12 @@
 ---
 title: "Resolving an SmtpException stating 'Too many messages for this session'"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "cb418641-7e6f-45a7-83ae-fed7241fc0de"
 cloudscribe_path: "/Blog/resolving-smtpexception-too-many-messages-for-this-session"
 permalink: /Blog/resolving-smtpexception-too-many-messages-for-this-session
 date: 2012-02-21
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

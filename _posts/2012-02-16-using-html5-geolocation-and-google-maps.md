@@ -1,13 +1,12 @@
 ---
 title: "Using HTML 5 Geolocation, Google Maps to Generate Driving Distance"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "232508a9-b8d5-4e65-b968-c81be429378b"
 cloudscribe_path: "/Blog/using-html5-geolocation-and-google-maps"
 permalink: /Blog/using-html5-geolocation-and-google-maps
 date: 2012-02-16
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Developing with Cosmos DB Locally"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "57d3e428-6dbd-4f64-8302-eb586bd5f7cc"
 cloudscribe_path: "/Blog/developing-with-cosmos-db-locally"
 permalink: /Blog/developing-with-cosmos-db-locally
 date: 2020-04-27
-categories: Cloud,Development,Tip
+categories: [Cloud, Development, Tip]
 tags: 
 ---
 

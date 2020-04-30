@@ -1,13 +1,12 @@
 ---
 title: "Automatically Push Versioned NuGet Packages using Azure DevOps Build Process"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "75347a6e-ce01-4da2-bcd7-94dd0520ccd2"
 cloudscribe_path: "/Blog/automatically-push-versioned-nuget-packages-using-vsts-build-process"
 permalink: /Blog/automatically-push-versioned-nuget-packages-using-vsts-build-process
 date: 2018-01-25
-categories: DevOps,Development
+categories: [DevOps, Development]
 tags: 
 ---
 

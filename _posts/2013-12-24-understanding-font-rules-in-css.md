@@ -1,13 +1,12 @@
 ---
 title: "Understanding Font Rules in CSS"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "4fcd6bec-525a-4e1b-956c-0dd8f4353d71"
 cloudscribe_path: "/Blog/understanding-font-rules-in-css"
 permalink: /Blog/understanding-font-rules-in-css
 date: 2013-12-24
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

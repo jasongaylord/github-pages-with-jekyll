@@ -1,13 +1,12 @@
 ---
 title: "Azure Anywhere Using Azure Arc and Kubernetes"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "18d1f74b-e9cf-47f5-b3f8-c8c047fb8762"
 cloudscribe_path: "/Blog/azure-anywhere-using-azure-arc-and-kubernetes"
 permalink: /Blog/azure-anywhere-using-azure-arc-and-kubernetes
 date: 2019-11-04
-categories: Cloud,Technology
+categories: [Cloud, Technology]
 tags: 
 ---
 

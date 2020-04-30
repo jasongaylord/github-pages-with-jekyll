@@ -1,13 +1,12 @@
 ---
 title: "Global Azure Virtual 2020"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "5d499756-d7ee-4fb5-852b-0397da235566"
 cloudscribe_path: "/Blog/global-azure-virtual-2020"
 permalink: /Blog/global-azure-virtual-2020
 date: 2020-04-23
-categories: Events,Technology
+categories: [Events, Technology]
 tags: 
 ---
 

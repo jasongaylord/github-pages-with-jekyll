@@ -1,13 +1,12 @@
 ---
 title: "Moving On… To Guard Insurance Group"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "29c1f786-2447-4fa1-a4bf-abd6013fcddc"
 cloudscribe_path: "/Blog/moving-on-from-unitedoneresources-to-guard-insurance"
 permalink: /Blog/moving-on-from-unitedoneresources-to-guard-insurance
 date: 2013-11-15
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

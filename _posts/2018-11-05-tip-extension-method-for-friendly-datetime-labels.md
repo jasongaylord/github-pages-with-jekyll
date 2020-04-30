@@ -1,13 +1,12 @@
 ---
 title: "Tip: Extension Method for Friendly DateTime Labels"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "247a53ad-b5bc-445f-a4a4-748270a289a1"
 cloudscribe_path: "/Blog/tip-extension-method-for-friendly-datetime-labels"
 permalink: /Blog/tip-extension-method-for-friendly-datetime-labels
 date: 2018-11-05
-categories: Development,Tip
+categories: [Development, Tip]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Detecting Browser Features and Internet Explorer Compatibility Mode"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "05fa947f-4afb-45cf-9af0-5d6b54b8827c"
 cloudscribe_path: "/Blog/detecting-browser-features-and-ie-compatibility-mode"
 permalink: /Blog/detecting-browser-features-and-ie-compatibility-mode
 date: 2013-06-08
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

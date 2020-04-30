@@ -1,13 +1,12 @@
 ---
 title: "Free eBook: ASP.NET Core and Azure Architecture"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "677fd8dd-f2d6-4ade-90ff-47d116af6686"
 cloudscribe_path: "/Blog/free-ebook-aspnet-core-and-azure-architecture"
 permalink: /Blog/free-ebook-aspnet-core-and-azure-architecture
 date: 2018-10-28
-categories: Development,Tip
+categories: [Development, Tip]
 tags: 
 ---
 

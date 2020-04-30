@@ -1,13 +1,12 @@
 ---
 title: "Tracking Hurricane Florence Using Technology"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "cd5fb4e2-b923-4649-acc4-656423f43403"
 cloudscribe_path: "/Blog/tracking-hurricane-florence-using-technology"
 permalink: /Blog/tracking-hurricane-florence-using-technology
 date: 2018-09-10
-categories: Technology
+categories: [Technology]
 tags: 
 ---
 

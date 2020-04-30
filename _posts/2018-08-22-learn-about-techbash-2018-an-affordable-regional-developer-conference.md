@@ -1,13 +1,12 @@
 ---
 title: "Learn about TechBash 2018, an Affordable Regional Developer Conference"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "bf8afb9c-4b36-47d0-ba19-58ddd6e44b33"
 cloudscribe_path: "/Blog/learn-about-techbash-2018-an-affordable-regional-developer-conference"
 permalink: /Blog/learn-about-techbash-2018-an-affordable-regional-developer-conference
 date: 2018-08-22
-categories: TechBash
+categories: [TechBash]
 tags: 
 ---
 

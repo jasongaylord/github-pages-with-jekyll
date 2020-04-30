@@ -1,13 +1,12 @@
 ---
 title: "Azure Resource Changes Coming 12/1"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "1df2672e-49e9-43d9-b0c5-626357c2565e"
 cloudscribe_path: "/Blog/azure-resource-changes-coming-121"
 permalink: /Blog/azure-resource-changes-coming-121
 date: 2018-11-09
-categories: Cloud
+categories: [Cloud]
 tags: 
 ---
 

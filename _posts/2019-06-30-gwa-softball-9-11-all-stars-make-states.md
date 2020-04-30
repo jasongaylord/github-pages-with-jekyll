@@ -1,13 +1,12 @@
 ---
 title: "GWA Softball 9-11 All-Stars Make States"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "a1c3cc2f-7625-4bf9-baa7-b093e042ec64"
 cloudscribe_path: "/Blog/gwa-softball-9-11-all-stars-make-states"
 permalink: /Blog/gwa-softball-9-11-all-stars-make-states
 date: 2019-06-30
-categories: Personal
+categories: [Personal]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Git Tip: Link a Local Project to a Hosted Repository"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "4269bb21-10ed-4cfe-9f23-64fb19463a5e"
 cloudscribe_path: "/Blog/git-tip-link-a-local-project-to-a-hosted-repository"
 permalink: /Blog/git-tip-link-a-local-project-to-a-hosted-repository
 date: 2018-11-16
-categories: Development,Tip
+categories: [Development, Tip]
 tags: 
 ---
 

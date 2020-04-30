@@ -1,13 +1,12 @@
 ---
 title: "Securing Your Website for Free"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "781987fe-fedb-4fe8-839e-a332e918b420"
 cloudscribe_path: "/Blog/securing-your-website-for-free"
 permalink: /Blog/securing-your-website-for-free
 date: 2018-10-18
-categories: Development,Security
+categories: [Development, Security]
 tags: 
 ---
 

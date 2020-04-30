@@ -1,13 +1,12 @@
 ---
 title: "Pixel by LabCorp Releases At Home Test"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "d127c2d0-6fe8-4e8b-aa1c-2d3fd0834cd0"
 cloudscribe_path: "/Blog/pixel-by-labcorp-releases-at-home-test"
 permalink: /Blog/pixel-by-labcorp-releases-at-home-test
 date: 2020-04-23
-categories: Events,Technology
+categories: [Events, Technology]
 tags: 
 ---
 

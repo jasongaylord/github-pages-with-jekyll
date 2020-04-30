@@ -1,13 +1,12 @@
 ---
 title: "Learn GitHub using the GitHub Learning Lab"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "9c6c2f69-83ef-40a6-a45c-17535b0242eb"
 cloudscribe_path: "/Blog/learn-github-using-the-github-learning-lab"
 permalink: /Blog/learn-github-using-the-github-learning-lab
 date: 2020-04-29
-categories: DevOps,Development,Technology,Tip
+categories: [DevOps, Development, Technology, Tip]
 tags: 
 ---
 

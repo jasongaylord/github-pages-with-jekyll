@@ -1,13 +1,12 @@
 ---
 title: "Watch: Santosh Hari Discuss Serverless and Schemaless"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "18d760f4-19d9-4b61-a843-1e6cd8aa7820"
 cloudscribe_path: "/Blog/watch-santosh-hari-discuss-serverless-and-schemaless"
 permalink: /Blog/watch-santosh-hari-discuss-serverless-and-schemaless
 date: 2018-12-07
-categories: Cloud,Development,TechBash
+categories: [Cloud, Development, TechBash]
 tags: 
 ---
 

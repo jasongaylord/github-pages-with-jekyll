@@ -1,13 +1,12 @@
 ---
 title: "1-Day Tickets and More for TechBash"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "0c353ecf-df5e-49e6-b984-3dc3e85bd8ad"
 cloudscribe_path: "/Blog/1-day-tickets-and-more-for-techbash"
 permalink: /Blog/1-day-tickets-and-more-for-techbash
 date: 2019-10-23
-categories: Events,TechBash
+categories: [Events, TechBash]
 tags: 
 ---
 

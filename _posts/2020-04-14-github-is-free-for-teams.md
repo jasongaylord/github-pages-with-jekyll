@@ -1,13 +1,12 @@
 ---
 title: "GitHub is Free for Teams"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "3f579e6d-c139-45bf-8e95-bc58d7daed6f"
 cloudscribe_path: "/Blog/github-is-free-for-teams"
 permalink: /Blog/github-is-free-for-teams
 date: 2020-04-14
-categories: DevOps,Development,Technology
+categories: [DevOps, Development, Technology]
 tags: 
 ---
 

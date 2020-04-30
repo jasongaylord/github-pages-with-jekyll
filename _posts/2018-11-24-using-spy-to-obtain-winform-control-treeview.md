@@ -1,13 +1,12 @@
 ---
 title: "Using Spy++ to Obtain Winform Control TreeView"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "4f37761b-de21-4a53-8cae-b526c110cc3f"
 cloudscribe_path: "/Blog/using-spy-to-obtain-winform-control-treeview"
 permalink: /Blog/using-spy-to-obtain-winform-control-treeview
 date: 2018-11-24
-categories: Development
+categories: [Development]
 tags: 
 ---
 

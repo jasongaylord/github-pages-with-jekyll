@@ -1,13 +1,12 @@
 ---
 title: "Call for Speakers Open for TechBash 2019"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "80750c79-e0c4-4319-bd24-b9e491ea3d87"
 cloudscribe_path: "/Blog/call-for-speakers-open-for-techbash-2019"
 permalink: /Blog/call-for-speakers-open-for-techbash-2019
 date: 2019-03-19
-categories: Events,TechBash
+categories: [Events, TechBash]
 tags: 
 ---
 

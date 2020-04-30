@@ -1,13 +1,12 @@
 ---
 title: "Dropping MS SQL Tables that have a Prefix using T-SQL"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "2d244b1e-dc2a-4e4c-83ef-98b5351466df"
 cloudscribe_path: "/Blog/dropping-ms-sql-tables-that-have-a-prefix-using-t-sql"
 permalink: /Blog/dropping-ms-sql-tables-that-have-a-prefix-using-t-sql
 date: 2012-11-16
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Microsoft Officially Acquires GitHub"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "baf97f06-a392-49b8-bd41-df4d1897da6b"
 cloudscribe_path: "/Blog/microsoft-officially-acquires-github"
 permalink: /Blog/microsoft-officially-acquires-github
 date: 2018-10-27
-categories: DevOps
+categories: [DevOps]
 tags: 
 ---
 

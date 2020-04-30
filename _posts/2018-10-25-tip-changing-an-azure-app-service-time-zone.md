@@ -1,13 +1,12 @@
 ---
 title: "Tip: Changing an Azure App Service Time Zone"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "44cee5b1-213f-46f1-8cbd-ae46e7584022"
 cloudscribe_path: "/Blog/tip-changing-an-azure-app-service-time-zone"
 permalink: /Blog/tip-changing-an-azure-app-service-time-zone
 date: 2018-10-25
-categories: Cloud,Development,Tip
+categories: [Cloud, Development, Tip]
 tags: 
 ---
 

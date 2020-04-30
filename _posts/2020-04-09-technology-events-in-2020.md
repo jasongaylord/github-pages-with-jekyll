@@ -1,13 +1,12 @@
 ---
 title: "Technology Events in 2020"
 author: 
-  display_name: ""
-  email: ""
+email: 
 cloudscribe_id: "0e651217-1a45-4bdc-8e1f-773f53a34772"
 cloudscribe_path: "/Blog/technology-events-in-2020"
 permalink: /Blog/technology-events-in-2020
 date: 2020-04-09
-categories: Events,TechBash,Technology
+categories: [Events, TechBash, Technology]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Setting up Your Angular Environment"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "2121ad24-b93c-44fe-83de-1853435d6ed9"
 cloudscribe_path: "/Blog/setting-up-your-angular-environment"
 permalink: /Blog/setting-up-your-angular-environment
 date: 2020-04-24
-categories: Development
+categories: [Development]
 tags: 
 ---
 

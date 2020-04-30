@@ -1,13 +1,12 @@
 ---
 title: "Hiding Your Background When Working From Home"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "72620ae7-7bff-4c94-aa01-6afe6bc5eefc"
 cloudscribe_path: "/Blog/hiding-your-background-when-working-from-home"
 permalink: /Blog/hiding-your-background-when-working-from-home
 date: 2020-04-16
-categories: Technology,Tip
+categories: [Technology, Tip]
 tags: 
 ---
 

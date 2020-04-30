@@ -1,13 +1,12 @@
 ---
 title: "Keynote Announced for TechBash 2019"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "c69d61d1-8bd3-4c14-8de2-b62e6e164ba2"
 cloudscribe_path: "/Blog/keynote-announced-for-techbash-2019"
 permalink: /Blog/keynote-announced-for-techbash-2019
 date: 2019-09-26
-categories: Events,TechBash
+categories: [Events, TechBash]
 tags: 
 ---
 

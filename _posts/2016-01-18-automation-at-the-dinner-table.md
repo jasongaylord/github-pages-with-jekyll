@@ -1,13 +1,12 @@
 ---
 title: "Automation at the Dinner Table"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "36e880a0-4edf-4417-be13-905a233e1238"
 cloudscribe_path: "/Blog/automation-at-the-dinner-table"
 permalink: /Blog/automation-at-the-dinner-table
 date: 2016-01-18
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

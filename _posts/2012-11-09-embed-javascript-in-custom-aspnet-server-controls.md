@@ -1,13 +1,12 @@
 ---
 title: "Embed JavaScript in Custom ASP.NET Server Controls"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "5b517ce2-4a7f-4083-b224-5c3cc7670c29"
 cloudscribe_path: "/Blog/embed-javascript-in-custom-aspnet-server-controls"
 permalink: /Blog/embed-javascript-in-custom-aspnet-server-controls
 date: 2012-11-09
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Integrating with the YouTube API"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "56e6e8dc-1807-4aff-b1aa-cad9a2becc90"
 cloudscribe_path: "/Blog/integrating-with-the-youtube-api"
 permalink: /Blog/integrating-with-the-youtube-api
 date: 2019-02-20
-categories: Development
+categories: [Development]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "Amazon Announces Black Friday Deals Week 2019"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "07913821-0c8f-42b5-a7ed-9d6a72a4e746"
 cloudscribe_path: "/Blog/amazon-announces-black-friday-deals-week-2019"
 permalink: /Blog/amazon-announces-black-friday-deals-week-2019
 date: 2019-11-18
-categories: Shopping
+categories: [Shopping]
 tags: 
 ---
 

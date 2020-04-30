@@ -1,13 +1,12 @@
 ---
 title: "Microsoft Financial Services Summit May 9, 2019 in NYC"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "699f9b8e-ae1f-4c5f-83f7-fe30e3519f5f"
 cloudscribe_path: "/Blog/microsoft-financial-services-summit-may-9-2019-in-nyc"
 permalink: /Blog/microsoft-financial-services-summit-may-9-2019-in-nyc
 date: 2019-05-01
-categories: DevOps,Events,Technology
+categories: [DevOps, Events, Technology]
 tags: 
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: "How to Reset a 7th Generation iPod Touch"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "1649341c-97ef-4e62-a438-0424364da59b"
 cloudscribe_path: "/Blog/how-to-reset-a-7th-generation-ipod-touch"
 permalink: /Blog/how-to-reset-a-7th-generation-ipod-touch
 date: 2020-04-22
-categories: Technology,Tip
+categories: [Technology, Tip]
 tags: 
 ---
 

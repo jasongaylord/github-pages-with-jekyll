@@ -1,13 +1,12 @@
 ---
 title: "Get Involved with TechBash 2019"
 author: 
-  display_name: ""
-  email: ""
+email: 
 cloudscribe_id: "496d7528-1454-4f81-948c-9d2690c24013"
 cloudscribe_path: "/Blog/get-involved-with-techbash-2019"
 permalink: /Blog/get-involved-with-techbash-2019
 date: 2019-08-16
-categories: Events,Opinion,TechBash
+categories: [Events, Opinion, TechBash]
 tags: 
 ---
 

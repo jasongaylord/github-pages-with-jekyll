@@ -1,13 +1,12 @@
 ---
 title: "Writing Sound Business Requirements (User Stories)"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "9e194c4a-4b1c-46bc-8414-4ada565a435a"
 cloudscribe_path: "/Blog/writing-sound-business-requirements-user-stories"
 permalink: /Blog/writing-sound-business-requirements-user-stories
 date: 2014-06-13
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

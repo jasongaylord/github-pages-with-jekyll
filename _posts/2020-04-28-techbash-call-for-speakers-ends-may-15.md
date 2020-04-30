@@ -1,13 +1,12 @@
 ---
 title: "TechBash Call for Speakers Ends May 15"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "00a3c3ae-3656-46e4-8d0d-9a1b14ff211a"
 cloudscribe_path: "/Blog/techbash-call-for-speakers-ends-may-15"
 permalink: /Blog/techbash-call-for-speakers-ends-may-15
 date: 2020-04-28
-categories: Events,TechBash
+categories: [Events, TechBash]
 tags: 
 ---
 

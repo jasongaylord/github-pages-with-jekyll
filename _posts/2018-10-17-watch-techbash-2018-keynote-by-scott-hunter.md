@@ -1,13 +1,12 @@
 ---
 title: "Watch: TechBash 2018 Keynote by Scott Hunter"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "6f7e22cb-1576-4945-a305-c789d507b9a0"
 cloudscribe_path: "/Blog/watch-techbash-2018-keynote-by-scott-hunter"
 permalink: /Blog/watch-techbash-2018-keynote-by-scott-hunter
 date: 2018-10-17
-categories: TechBash,Development
+categories: [TechBash, Development]
 tags: 
 ---
 

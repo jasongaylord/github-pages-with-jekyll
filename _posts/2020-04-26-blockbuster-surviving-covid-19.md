@@ -1,13 +1,12 @@
 ---
 title: "Blockbuster Surviving Covid-19"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "662a00cf-14a2-44a6-96a4-3fc963762704"
 cloudscribe_path: "/Blog/blockbuster-surviving-covid-19"
 permalink: /Blog/blockbuster-surviving-covid-19
 date: 2020-04-26
-categories: Shopping
+categories: [Shopping]
 tags: 
 ---
 

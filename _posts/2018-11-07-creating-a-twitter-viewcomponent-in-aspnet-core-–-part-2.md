@@ -1,13 +1,12 @@
 ---
 title: "Creating a Twitter ViewComponent in ASP.NET Core – Part 2"
 author: 
-  display_name: ""
-  email: ""
+email: 
 cloudscribe_id: "97689e0c-737e-4e9b-8232-218aa4933630"
 cloudscribe_path: "/Blog/creating-a-twitter-viewcomponent-in-aspnet-core-–-part-2"
 permalink: /Blog/creating-a-twitter-viewcomponent-in-aspnet-core-–-part-2
 date: 2018-11-07
-categories: Development
+categories: [Development]
 tags: 
 ---
 

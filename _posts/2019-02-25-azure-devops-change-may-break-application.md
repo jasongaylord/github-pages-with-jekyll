@@ -1,13 +1,12 @@
 ---
 title: "Azure DevOps “Run as Package” Change May Break Application"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "a5044911-0c9d-4b2e-8fc9-8492e6c642fc"
 cloudscribe_path: "/Blog/azure-devops-change-may-break-application"
 permalink: /Blog/azure-devops-change-may-break-application
 date: 2019-02-25
-categories: Cloud,DevOps,Tip
+categories: [Cloud, DevOps, Tip]
 tags: 
 ---
 

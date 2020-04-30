@@ -1,13 +1,12 @@
 ---
 title: ".NET Core 1.0 and  1.1 End of Life Announcement"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "961cbced-30af-45a5-9bd0-fa23210917ee"
 cloudscribe_path: "/Blog/net-core-10-and--11-end-of-life-announcement"
 permalink: /Blog/net-core-10-and--11-end-of-life-announcement
 date: 2019-02-19
-categories: Development
+categories: [Development]
 tags: 
 ---
 

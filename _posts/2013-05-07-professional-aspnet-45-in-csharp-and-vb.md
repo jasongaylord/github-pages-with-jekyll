@@ -1,13 +1,12 @@
 ---
 title: "Professional ASP.NET 4.5 in C# and VB"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "80d2c23c-9982-44da-9cf1-baa4c6a67129"
 cloudscribe_path: "/Blog/professional-aspnet-45-in-csharp-and-vb"
 permalink: /Blog/professional-aspnet-45-in-csharp-and-vb
 date: 2013-05-07
-categories: Archive
+categories: [Archive]
 tags: 
 ---
 

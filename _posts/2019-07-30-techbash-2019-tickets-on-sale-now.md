@@ -1,13 +1,12 @@
 ---
 title: "TechBash 2019 Tickets On Sale Now!"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "91e69097-ac38-40c5-8db2-89598b6d33db"
 cloudscribe_path: "/Blog/techbash-2019-tickets-on-sale-now"
 permalink: /Blog/techbash-2019-tickets-on-sale-now
 date: 2019-07-30
-categories: Events,TechBash
+categories: [Events, TechBash]
 tags: 
 ---
 

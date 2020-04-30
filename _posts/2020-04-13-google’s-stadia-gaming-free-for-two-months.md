@@ -1,13 +1,12 @@
 ---
 title: "Google’s Stadia Gaming Free for Two Months"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "97dc5fd6-f6cd-4c2c-ba86-a486378e95b4"
 cloudscribe_path: "/Blog/google’s-stadia-gaming-free-for-two-months"
 permalink: /Blog/google’s-stadia-gaming-free-for-two-months
 date: 2020-04-13
-categories: Shopping,Technology
+categories: [Shopping, Technology]
 tags: 
 ---
 

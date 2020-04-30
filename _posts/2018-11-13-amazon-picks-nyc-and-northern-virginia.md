@@ -1,13 +1,12 @@
 ---
 title: "Amazon Picks NYC and Northern Virginia"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "a34b9d90-d916-45f4-b6d3-ebf5ed2f5380"
 cloudscribe_path: "/Blog/amazon-picks-nyc-and-northern-virginia"
 permalink: /Blog/amazon-picks-nyc-and-northern-virginia
 date: 2018-11-13
-categories: Opinion,Technology
+categories: [Opinion, Technology]
 tags: 
 ---
 

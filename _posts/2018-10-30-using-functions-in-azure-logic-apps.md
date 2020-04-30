@@ -1,13 +1,12 @@
 ---
 title: "Using Functions in Azure Logic Apps"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "02dc5c7e-f78f-4162-94ea-92fc78cde149"
 cloudscribe_path: "/Blog/using-functions-in-azure-logic-apps"
 permalink: /Blog/using-functions-in-azure-logic-apps
 date: 2018-10-30
-categories: Cloud,Tip
+categories: [Cloud, Tip]
 tags: 
 ---
 

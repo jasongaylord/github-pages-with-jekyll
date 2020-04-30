@@ -1,13 +1,12 @@
 ---
 title: "Free eBook: .NET Microservices Architecture"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "46994928-ca88-4848-9743-dcdd4740c048"
 cloudscribe_path: "/Blog/free-ebook-net-microservices-architecture"
 permalink: /Blog/free-ebook-net-microservices-architecture
 date: 2018-10-29
-categories: Cloud,Development,Tip
+categories: [Cloud, Development, Tip]
 tags: 
 ---
 

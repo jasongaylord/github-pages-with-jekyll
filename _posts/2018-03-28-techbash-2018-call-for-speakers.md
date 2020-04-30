@@ -1,13 +1,12 @@
 ---
 title: "TechBash 2018 - Call for Speakers"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "d6b87dd9-c2e0-48b4-ade4-155062a88006"
 cloudscribe_path: "/Blog/techbash-2018-call-for-speakers"
 permalink: /Blog/techbash-2018-call-for-speakers
 date: 2018-03-28
-categories: TechBash
+categories: [TechBash]
 tags: 
 ---
 

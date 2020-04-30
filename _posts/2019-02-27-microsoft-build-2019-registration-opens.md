@@ -1,13 +1,12 @@
 ---
 title: "Microsoft Build 2019 Registration Opens"
 author: 
-  display_name: ""
-  email: ""
+email: 
 cloudscribe_id: "62c1a4da-eb4d-4704-b8ab-1d0095d0bfbf"
 cloudscribe_path: "/Blog/microsoft-build-2019-registration-opens"
 permalink: /Blog/microsoft-build-2019-registration-opens
 date: 2019-02-27
-categories: Events
+categories: [Events]
 tags: 
 ---
 

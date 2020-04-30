@@ -1,13 +1,12 @@
 ---
 title: "Cancelled DirecTV after 15 Years"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "a1e2314c-f544-4a9f-ad8c-392072a78161"
 cloudscribe_path: "/Blog/cancelled-directv-after-15-years"
 permalink: /Blog/cancelled-directv-after-15-years
 date: 2019-12-31
-categories: Opinion,Personal,Shopping,Technology,Tip
+categories: [Opinion, Personal, Shopping, Technology, Tip]
 tags: 
 ---
 

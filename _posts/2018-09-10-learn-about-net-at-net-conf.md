@@ -1,13 +1,12 @@
 ---
 title: "Learn about .NET at .NET Conf"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "4897a5ef-e13f-4823-b16d-1e74f2e71c90"
 cloudscribe_path: "/Blog/learn-about-net-at-net-conf"
 permalink: /Blog/learn-about-net-at-net-conf
 date: 2018-09-10
-categories: TechBash,Development
+categories: [TechBash, Development]
 tags: 
 ---
 

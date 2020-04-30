@@ -1,13 +1,12 @@
 ---
 title: "Watch: Jeff Fritz discusses .NET Tips and Tricks"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "22a656c1-50b3-4740-acc4-d1da384918e8"
 cloudscribe_path: "/Blog/watch-jeff-fritz-discusses-net-tips-and-tricks"
 permalink: /Blog/watch-jeff-fritz-discusses-net-tips-and-tricks
 date: 2018-10-19
-categories: Development,TechBash
+categories: [Development, TechBash]
 tags: 
 ---
 

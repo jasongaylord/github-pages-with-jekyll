@@ -1,13 +1,12 @@
 ---
 title: "Free Pluralsight This Weekend"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "156086d0-4b3d-4252-a5de-8628459de4fe"
 cloudscribe_path: "/Blog/free-pluralsight-this-weekend"
 permalink: /Blog/free-pluralsight-this-weekend
 date: 2018-12-12
-categories: Events,Tip
+categories: [Events, Tip]
 tags: 
 ---
 

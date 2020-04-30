@@ -1,13 +1,12 @@
 ---
 title: "The Nostalgia of Toys’R’Us"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "c35cf172-089d-4237-809e-a48bd3d2dff7"
 cloudscribe_path: "/Blog/the-nostalgia-of-toysrus"
 permalink: /Blog/the-nostalgia-of-toysrus
 date: 2018-03-16
-categories: Opinion
+categories: [Opinion]
 tags: 
 ---
 
