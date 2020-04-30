@@ -1,0 +1,26 @@
+---
+title: "Filtering Artifacts in Azure DevOps"
+author: 
+  display_name: "Jason Gaylord"
+  email: "jason@jasongaylord.com"
+cloudscribe_id: "e51109e3-12a8-4955-9c4c-f6733071cfe7"
+cloudscribe_path: "/Blog/filtering-artifacts-in-azure-devops"
+permalink: /Blog/filtering-artifacts-in-azure-devops
+date: 2018-10-26
+categories: DevOps
+tags: 
+---
+
+Azure DevOps is currently undergoing a facelift. If you are using the new design and you leverage the Package Management (Artifacts) option in Azure DevOps:
+
+![](https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_Menu_Option.png)
+
+If you’re using NPM, you may notice that the default view is to show all packages in the list including those found at npmjs. 
+
+![](https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_Default_View.png)
+
+However, if you choose the Source dropdown menu, you can choose ‘This Feed’ to see only your packages that you’ve uploaded.
+
+![](https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_This_Feed.png)
+
+Early this year, [I blogged](https://jasong.us/2PteeLu) about automatically pushing versioned NuGet packages to the Azure DevOps Artifacts (Package Management) feed using the Azure DevOps build process. If this is of interest, I’d highly recommend reading [that post](https://jasong.us/2PteeLu). It’s available at [https://www.jasongaylord.com/blog/automatically-push-versioned-nuget-packages-using-vsts-build-process](https://jasong.us/2PteeLu "https://jasong.us/2PteeLu").<p>Azure DevOps is currently undergoing a facelift. If you are using the new design and you leverage the Package Management (Artifacts) option in Azure DevOps:</p><p><img src="https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_Menu_Option.png"></p><p>If you’re using NPM, you may notice that the default view is to show all packages in the list including those found at npmjs. </p><p><img src="https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_Default_View.png"></p><p>However, if you choose the Source dropdown menu, you can choose ‘This Feed’ to see only your packages that you’ve uploaded.</p><p><img src="https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_This_Feed.png"></p><p>Early this year, <a href="https://jasong.us/2PteeLu" target="_blank">I blogged</a> about automatically pushing versioned NuGet packages to the Azure DevOps Artifacts (Package Management) feed using the Azure DevOps build process. If this is of interest, I’d highly recommend reading <a href="https://jasong.us/2PteeLu" target="_blank">that post</a>. It’s available at <a title="https://jasong.us/2PteeLu" href="https://jasong.us/2PteeLu">https://www.jasongaylord.com/blog/automatically-push-versioned-nuget-packages-using-vsts-build-process</a>.</p>
