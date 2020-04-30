@@ -1,26 +1,24 @@
 ---
 title: "Use Docking Station from Home and Add Home Projects"
-author: 
-  display_name: "Jason Gaylord"
-  email: "jason@jasongaylord.com"
+author: [Jason Gaylord](jason@jasongaylord.com)
 cloudscribe_id: "5b4ce748-10cf-4c47-a76d-3efdf44d4659"
 cloudscribe_path: "/Blog/use-docking-station-from-home-and-add-home-projects"
 permalink: /Blog/use-docking-station-from-home-and-add-home-projects
 date: 2020-04-07
-categories: Events,Opinion,Technology,Tip
+categories: [Events,Opinion,Technology,Tip]
 tags: 
 ---
 
 <div class="alert alert-primary">
-**Related Posts:** You can find all of the Covid-19 related posts from me by [clicking here](#RelatedCovid19Posts)
+**Related Posts:** You can find all of the Covid-19 related posts from me by [clicking here](#Other-Posts-Related-to-COVID-19)
 </div>
 
 
 
 In today’s post, I’d like to talk about using a docking station to work from home and mimic your office experience. I’d also like to talk about adding home projects to your chores list to keep you busy. 
 
-1.  [Using Docking Stations](DockingStations)
-2.  [Add Home Projects](#HomeProjects)
+1.  [Using Docking Stations](#Using-Docking-Stations)
+2.  [Add Home Projects](#Add-Home-Projects)
 
 ### Using Docking Stations
 
