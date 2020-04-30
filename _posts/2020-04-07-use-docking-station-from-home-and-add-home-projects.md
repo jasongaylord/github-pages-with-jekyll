@@ -1,10 +1,12 @@
 ---
 title: "Use Docking Station from Home and Add Home Projects"
-author: [Jason Gaylord](jason@jasongaylord.com)
+author: Jason Gaylord
+email: jason@jasongaylord.com
 cloudscribe_id: "5b4ce748-10cf-4c47-a76d-3efdf44d4659"
 cloudscribe_path: "/Blog/use-docking-station-from-home-and-add-home-projects"
 permalink: /Blog/use-docking-station-from-home-and-add-home-projects
 date: 2020-04-07
+categories: [Events,Opinion,Technology,Tip]
 tags: 
 ---
 
